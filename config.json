@@ -1,0 +1,13 @@
+{
+  "token": "MTQzMTczMjU2Nzc0MDI1NjM2Nw.GFqCYr.0O-M5TDXhCMY1ooN8cMb5i44dffSph7g7mxEfY",
+  "guild_id": 1335713759779622963,
+  "ticket_channel_id": 1373455984525053983,
+  "category_id_1": 1373455781789434077,
+  "category_id_2": 1431761544017874954,
+  "team_role_id_1": 1336765119287267451,
+  "team_role_id_2": 1336765119287267451,
+  "log_channel_id": 1373456975328968807,
+  "timezone": "CET",
+  "embed_title": "Creer un Ticket",
+  "embed_description": "Ici vous pouvez creer un ticket pour contacter le support."
+}
